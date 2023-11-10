@@ -1,0 +1,16 @@
+{
+  "name": "fivem-js-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@citizenfx/client": "^2.0.7080-1",
+    "@citizenfx/server": "^2.0.7080-1",
+    "esbuild": "^0.19.5"
+  }
+}
